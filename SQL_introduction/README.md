@@ -5,3 +5,4 @@ This file is the root directory for the relational databases project folder. It 
 * List databases
 * Create a database
 * Delete a database
+* List tables
