@@ -11,3 +11,4 @@ This file is the root directory for the relational databases project folder. It 
 * List all in table
 * First add
 * Count 89
+* Full creation
