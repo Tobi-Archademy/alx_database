@@ -8,3 +8,4 @@ This file is the root directory for the relational databases project folder. It 
 * List tables
 * First table
 * Full description
+* List all in table
