@@ -10,3 +10,5 @@ This file is the root directory for the relational databases project folder. It 
 * Unique ID
 * States table
 * Cities table
+* Cities of California
+
