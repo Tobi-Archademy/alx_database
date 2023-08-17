@@ -8,3 +8,4 @@ This file is the root directory for the relational databases project folder. It 
 * Always a name
 * ID can't be null
 * Unique ID
+* States table
