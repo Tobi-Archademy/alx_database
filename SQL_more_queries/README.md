@@ -7,3 +7,4 @@ This file is the root directory for the relational databases project folder. It 
 * Read user
 * Always a name
 * ID can't be null
+* Unique ID
