@@ -4,3 +4,4 @@ This file is the root directory for the relational databases project folder. It 
 
 * My privileges!
 * Root user
+* Read user
