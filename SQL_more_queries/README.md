@@ -9,3 +9,4 @@ This file is the root directory for the relational databases project folder. It 
 * ID can't be null
 * Unique ID
 * States table
+* Cities table
